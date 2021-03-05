@@ -1,4 +1,4 @@
-# 4641 Group 21 - Let's Regress Chess
+Let's Regress Chess
 
 ## Abstract
 
