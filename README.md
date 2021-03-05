@@ -31,7 +31,11 @@ Through this project, we have begun to learn how to define a problem and plan a 
 ## Bibliography
 
 [1] Chess Game Dataset (Lichess) https://www.kaggle.com/datasnaek/chess  
+  
 [2] Finding Elo https://www.kaggle.com/c/finding-elo   
+  
 [3] G. Di Fatta, G. M. Haworth and K. W. Regan, "Skill rating by Bayesian inference," 2009 IEEE Symposium on Computational Intelligence and Data Mining, Nashville, TN, USA, 2009, pp. 89-94, doi: 10.1109/CIDM.2009.4938634.  
-[4] Glickman, Mark E., and Albyn C. Jones. (1999) Rating the chess rating system CHANCE-BERLIN THEN NEW YORK12 (1999). 21-28.   
+  
+[4] Glickman, Mark E., and Albyn C. Jones. (1999) Rating the chess rating system CHANCE-BERLIN THEN NEW YORK12 (1999). 21-28.
+  
 [5] Scheible, Christian and Schutze, Hinrich, “Picking the Amateur’s Mind - Predicting Chess Player Strength from Game Annotations,” The 25th International Conference on Computational Linguistics, pages 311-321, Dublin, Ireland, 2014  
