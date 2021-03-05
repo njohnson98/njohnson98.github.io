@@ -14,11 +14,11 @@ The problem that this project will consider is using a single chess match (the i
 
 ## Methods
 
-A simple baseline we plan to use is a simple function taking into account whether or not the player won the match and in how many moves. This will not be very accurate, so to improve upon this baseline, we plan to test out a few different models such as linear regression and recurrent neural networks. Although chess is a popular machine learning topic, we have not found specific examples of using these methods to solve this problem as of now, so there could be some novelty.
+A simple baseline we plan to use is a function taking into account whether or not the player won the match and in how many moves. This will not be very accurate, so to improve upon this baseline, we plan to test out a few different models such as linear regression and recurrent neural networks. Although chess is a popular machine learning topic, we have not found specific examples of using these methods to solve this problem as of now, so there could be some novelty.
 
 ## Metrics
 
-We can use Mean Squared Error to evaluate how accurately we predict ratings relative to their labels. This should work well since chess ratings are integer values.
+We can use Mean Squared Error to evaluate how accurately we predict ratings relative to their labels. This should work well since chess ratings are integer values. Additionally, we plan to test the model using k-fold cross-validation.
 
 ## Potential Results
 
